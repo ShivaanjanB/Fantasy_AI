@@ -2,6 +2,56 @@
 
 As of 26 September 2026, this research found about **80 funded PhD routes** in Finance, FinTech, Information Systems, Business Analytics and Accounting across the UK, US, Canada, continental Europe and Asia-Pacific. For the 2027 entry cycle, **about 16 are confirmed open now or hiring on a rolling basis**, including Georgia State, Rotman, Cambridge Judge, HKPFS, HKU, HKBU, CUHK, NUS, SMU, UNSW, UTS, UQ, Monash, Queen's Smith, Luxembourg and Basel. About **6 more almost certainly open** because their deadlines fall in October–December 2026 (UBC Sauder, UCL, AMBS, Oxford Saïd, Melbourne and SMU SCIS), but no source confirmed it. At least **6 are confirmed to open later**: NTU on 1 Oct, Tinbergen around 1 Oct, Ivey on 15 Oct, Warwick Chancellor's in October, Mannheim in mid-November and SSE on 1 Dec. Most other US and European programs have December–January deadlines and portals whose opening dates were not captured. Application fees are low almost everywhere except North America. UK applications cost **£0–£20** (Oxford and Cambridge charge £20). Most continental European ones are **€0**, with **INSEAD at €80 and the Swiss Finance Institute at USD 100**. US business PhDs charge **USD 30–100**, Canadian schools **CAD 130–168 (about USD 94–121)**, Hong Kong **HK$180–780 (about USD 23–100)** and NUS **S$50**. Fees for Australian research degrees were not verified. Roughly 55 of these routes pay at least USD 23k. Measured in dollars, every UK studentship at the UKRI rate (£21,805, about USD 29k) clears the bar. Only **Imperial (£29,580), UCL (£26,000), the UKRI AI CDTs (~£25k), King's and London ESRC DTPs (~£23,805) and WBS Business & Management (~£23k, unverified)** clear it in pounds. For this applicant, the best balance of odds and pay lies in **Information Systems and analytics tracks rather than Finance**. The main places are Warwick itself, CityU and HKBU in Hong Kong, the non-Go8 end of Australia, and mid-ranked US public universities (Buffalo, Oklahoma State, Arkansas, Georgia State, Florida State). **Taking the GRE by mid-November 2026 is the single step that unlocks most of the list.**
 
+## Update: with a GRE of 338, aim higher
+
+*Added after the applicant reported a GRE score of 338/340. This replaces the "no GRE" assumption used in the rest of the report; where the sections below say a test score is missing or must be taken by mid-November, read them in light of this update.*
+
+A 338 is about the 99th percentile and implies Quant ≥168 and Verbal ≥168. It clears every benchmark found in this research: Georgia State's admit average (322), Oklahoma State's minimum (320), Florida State's 155-per-section floor, USF's 90th-percentile expectation, UT Dallas's GMAT-600 equivalent, Ivey's 75th percentile in both sections, Haskayne's 70th percentile and Erasmus School of Economics' Quant ≥160 cut. It is also above UBC Sauder's ~95th-percentile admit average. Every "GRE required / mandatory / no waiver" program in the tables is now open to this applicant, including HKU, CUHK, SMU LKCSB, NUS, NTU, Tilburg, Queen's and Ivey.
+
+The score removes the test barrier but not the other gaps. Committees at the top programs will still look for:
+- **Maths coursework.** A BBA shows little calculus, linear algebra or probability. List any quantitative MSc modules on the transcript. A certificated course in linear algebra or real analysis before December would help, especially for Finance.
+- **Research signal.** The three papers are a plus, but letters from research-active Warwick faculty will matter more than the venues.
+- **Undergraduate institution.** Jain is less known abroad; the Warwick MSc and letters carry the file.
+
+Check the score's test date (GRE scores are valid for five years) and budget for official ETS score reports: ETS charges for each report beyond the free ones chosen on test day.
+
+### Revised odds tiers (judgement, not admissions data)
+
+| Tier | Before (no GRE) | Now (GRE 338) |
+|---|---|---|
+| **Now target** | Reach: UT Dallas, Purdue, Pittsburgh Katz, Minnesota Carlson (IDS/IS), Arizona MIS, Ohio State (MIS), UF ISOM, UBC Sauder (MIS), Rotman, Ivey, McGill (IS), HKUST, CUHK, HKU (IS), NUS (Analytics/IS), NTU, SMU LKCSB | Target for **IS/analytics tracks**; still Reach for their **Finance** tracks |
+| **Now target** | Needed a test: Queen's Smith, Tilburg, NHH, BI, Stockholm University, UZH/SFI, Erasmus (ESE) | Target |
+| **Now safer** | Target: Georgia State, USF, Florida State, Kansas, Houston, Temple, Buffalo, Iowa, Alberta, Telfer | Safer (the score is well above their posted benchmarks) |
+| **Still reach** | Imperial, UCL, LSE, Oxford Saïd, Cambridge Judge, Chicago Booth, HKPFS, INSEAD, HEC Paris, Bocconi, SSE, Tinbergen | Still reach because intakes are tiny and Finance tracks expect maths/econometrics, but now **worth applying** |
+| Unchanged | WBS, Warwick Chancellor's, AMBS, CityU, HKBU, Luxembourg, Australian universities | The score strengthens these applications, but they didn't hinge on it |
+
+### Revised shortlist: 18 programs, stipend ≥ USD 23k
+
+| # | Program | Deadline | Fee (USD) | Tier |
+|---|---|---|---|---|
+| 1 | UCL School of Management (£26,000) | 1 Dec 2026 | n/f | Reach |
+| 2 | Imperial Business School (£29,580) | n/f | n/f | Reach |
+| 3 | UBC Sauder PhD (MIS) | 31 Dec 2026 | 121 | Reach/Target |
+| 4 | Minnesota Carlson (Information & Decision Sciences) | 15 Dec 2026 | 95 | Target |
+| 5 | UT Dallas Jindal (ITM / Finance) | verify | 50 | Target |
+| 6 | Purdue Daniels (MIS) | n/f | 75 | Target |
+| 7 | Pittsburgh Katz (IS&T), $41.8k package | 15 Jan 2027 | n/f | Target |
+| 8 | HKUST (IS) via HKPFS (HK$344,400) | 1 Dec 2026 | 23 | Target (HKPFS is reach) |
+| 9 | NUS Business (Analytics & Operations / IS) | 15 Dec 2026 | 39 | Target |
+| 10 | WBS MRes/PhD + Warwick Chancellor's International | 10 Dec 2026 / ~late Jan 2027 | ~0 | Target |
+| 11 | Erasmus ERIM/RSM (Finance/IS), salaried ~€38.7k | ~15 Jan 2027 | ~0 | Target |
+| 12 | Queen's Smith (MIS/Finance), CAD 34k | **31 Oct 2026** | n/f | Target |
+| 13 | Georgia State Robinson (CIS) | 8 Jan 2027 | 50 | Safer |
+| 14 | Florida State (MIS), $40k+ | 1 Dec 2026 priority | 30 | Safer |
+| 15 | Kansas (IS/Analytics), $38k | 15 Dec 2026 priority | 100 | Safer |
+| 16 | Buffalo (MIS), $30k | 15 Dec 2026 priority | 100 | Safer |
+| 17 | CityU Hong Kong (IS) | 1 Dec 2026 (HKPFS) | 64 | Safer |
+| 18 | Luxembourg Doctoral Researcher (FinTech), ~€42–44.5k | Rolling | ~0 | Safer |
+
+**Estimated cost for all 18: about USD 750–1,150 in application fees.** Confirmed fees sum to about USD 747. The range adds up to about $100 each for the unconfirmed fees at UCL, Imperial, Pittsburgh and Queen's. ETS score reports and English-test fees are extra.
+
+Keep one or two Australian applications (UTS 7 Oct, UQ 19 Oct) only if a July/early-2027 start appeals; they no longer need to carry the portfolio. Swap in Oklahoma State or Arkansas if you want more safer options, or Ivey/Rotman for more Canadian coverage.
+
 **How reliable these numbers are.** In every regional search, the network proxy blocked direct access to official university pages. **Every figure below comes from search-engine extracts of the cited pages, not from full page reads.** Some extracts came from aggregators, and many carry figures from the 2025 or 2026 cycle. Such figures are flagged "older" or "prior cycle" throughout. Check every number on the official page before you pay a fee or plan around a deadline. The Safer / Target / Reach tiers are **my judgement from posted requirements, test benchmarks and cohort sizes. They are not admission statistics.** None of the programs published acceptance rates, and the only cohort sizes found were Georgia State (1–4 per department per year) and UF ISOM (2–3 per year).
 
 ## Master table: about 80 routes, 55 above the USD 23k line
@@ -173,6 +223,8 @@ The calendar decides the order of work. The first three deadlines fall within fi
 Sources for each date are in the master table. The UK, Dutch, Edinburgh, Lancaster and HKUST dates are projected from the 2026 cycle and will firm up only when the 2027 pages go live in October.
 
 ## GRE timing, Warwick access and IS fit drive the odds
+
+*Superseded: the applicant has a GRE of 338 (see the update at the top). The paragraph below records the original no-GRE analysis.*
 
 **Test first.** Without a GRE the applicant can realistically reach only Buffalo, CityU, Cambridge Judge, ERIM, Luxembourg, the Australian universities and the UK schools that do not require one. The following programs require GMAT/GRE and several refuse to waive it:
 
