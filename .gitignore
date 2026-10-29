@@ -1,0 +1,21 @@
+# Secrets: copy .env.example to .env locally
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Generated at runtime by config.py and scripts/refresh.py
+data/
+chroma_db/
+chroma_backups/
+logs/
+bm25_index.pkl
+
+# Frontend
+frontend-react/node_modules/
+frontend-react/dist/

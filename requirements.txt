@@ -1,0 +1,39 @@
+# FantasyCoach AI — Python Dependencies
+# Install: pip install -r requirements.txt
+
+# Web Framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# LLM
+anthropic==0.42.0
+
+# Vector Database
+chromadb==0.5.23
+
+# Embeddings & Reranking
+sentence-transformers==3.3.1
+
+# Sparse Search
+rank-bm25==0.2.2
+
+# Data Validation
+pydantic==2.10.4
+
+# HTTP Clients
+httpx==0.28.1
+aiohttp==3.11.11
+
+# Environment
+python-dotenv==1.0.1
+
+# Numerical
+numpy>=1.24.0
+
+# Server-Sent Events
+sse-starlette==2.2.1
+
+# Dev / Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+ruff==0.8.6
